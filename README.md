@@ -150,14 +150,6 @@ timeline
   <img src="https://img.shields.io/github/stars/leonardoleaosantos2009-hub?label=Estrelas&style=social" alt="Estrelas" />
 </p>
 
-<details>
-<summary>📈 Ver gráfico de atividade</summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoleaosantos2009-hub&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-</p>
-  
-</details>
 
 ---
 
