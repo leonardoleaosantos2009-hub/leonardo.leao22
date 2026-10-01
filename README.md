@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios" />
   </a>
   <img src="https://img.shields.io/github/followers/leonardoleaosantos2009-hub?label=Seguidores&style=for-the-badge&logo=github&color=2c5364" alt="Seguidores" />
+  
   <img src="https://komarev.com/ghpvc/?username=leonardoleaosantos2009-hub&label=Visitas&color=00d4ff&style=for-the-badge" alt="Visitas no perfil" />
 </p>
 
@@ -35,7 +36,7 @@
 | 👤 **Perfil** | Desenvolvedor de Sistemas em formação, Full-Stack, com foco em Front-End |
 | 🎓 **Formação** | Técnico em Desenvolvimento de Sistemas, SENAI (Fev/2026 – Dez/2027) |
 | 🤖 **Aperfeiçoamento** | Machine Learning, SENAI (Jul/2026 – Dez/2026) |
-| 💻 **Stack** | HTML5 · CSS3 · JavaScript · SQL · C++ · Arduino · Git/GitHub |
+| 💻 **Stack** | HTML5 · CSS3 · JavaScript · SQL · C++ · Arduino · Git/GitHub · NodeJS |
 | 🎯 **Busco** | Estágio ou vaga júnior em desenvolvimento de software |
 | 📍 **Local** | Botucatu, SP |
 | 🌎 **Idiomas** | Português (nativo) · Inglês (básico) |
