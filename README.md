@@ -33,8 +33,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,git,github,vscode,linux&perline=11" alt="Tecnologias" />
 </p>
 
-> Troque os ícones pelas suas tecnologias. Lista completa: https://skillicons.dev
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -50,10 +48,10 @@
 
 ---
 
-## 🐍 Minhas contribuições
+## 📈 Gráfico de atividade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leonardoleaosantos2009-hub/leonardoleaosantos2009-hub/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo as contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoleaosantos2009-hub&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
 </p>
 
 ---
